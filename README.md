@@ -67,3 +67,5 @@ filme de sua coleção.
    através de login e senha.
 
    **RNF03**: O sistema deve permitir o armazenamento das informações dos filmes em um banco de dados.
+
+   ![alt text](image.png)
