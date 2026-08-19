@@ -69,3 +69,9 @@ filme de sua coleção.
    **RNF03**: O sistema deve permitir o armazenamento das informações dos filmes em um banco de dados.
 
    ![alt text](image.png)
+
+   ![alt text](image-1.png)
+
+   ![alt text](image-2.png)
+
+   ![alt text](image-3.png)
